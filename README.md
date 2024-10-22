@@ -1,0 +1,3 @@
+Altaf Properties is a Flutter-based mobile app designed to showcase real estate listings with detailed information for each property. The app features a home screen displaying a list of properties with images, names, and prices, and allows users to view detailed descriptions by navigating to a separate screen.
+Smooth animations like fade-in transitions and scaling effects enhance the user experience. The project utilizes widgets like ListView.builder, Card, FadeTransition, and ScaleTransition to create a dynamic and responsive UI. 
+Special thanks to Sir Waqar Arshad for guiding me through the development and helping me implement the Flutter syntax effectively.
